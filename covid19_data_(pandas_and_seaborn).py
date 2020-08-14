@@ -66,6 +66,7 @@ filtered_cvd_no_china = covid_data_no_china.drop_duplicates(subset = ['location'
 plot_bar('location', 'total_cases', 'Total cases in the world (except China)', filtered_cvd_no_china, size=4)
 plot_bar('location', 'total_deaths', 'Total deaths in the world (except China)', filtered_cvd_no_china, size=4)
 
+#---------------------------------------------------#
 
 def plot_world_aggregate(df, title='Aggregate Plot', size=1):
     f, ax = f, ax = plt.subplots(1,1, figsize=(4*size,2*size))
@@ -78,8 +79,15 @@ def plot_world_aggregate(df, title='Aggregate Plot', size=1):
     ax.grid(color = 'black', linestyle = 'dotted', linewidth = 0.75)
     plt.show()
     
+covid_no_china_aggregate = covid_data_no_china.groupby(['date']).sum().reset_index()
+print("\n----------Aggregate World Data----------")
+print(covid_no_china_aggregate)
 
+plot_world_aggregate(covid_no_china_aggregate, 'Rest of the World', size = 4)
 
+#---------------------------------------------------#
+
+def plot_aggregate_countries()
 
 
 
