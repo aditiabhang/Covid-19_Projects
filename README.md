@@ -1,4 +1,4 @@
-## Covid 19 Outbreak: Data Analyzing & Data Visualization
+## Covid 19 Outbreak: Data Analysis & Data Visualization
 
 I started out my Data Science learning by adding up fuel to my area of interest if having a focused career in Data Science.
 This project is my initial learning journey project which helped me keep my foot on the paddle to accelerate in the direction of data analysis and data visualization. 
