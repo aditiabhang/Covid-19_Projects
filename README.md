@@ -7,7 +7,7 @@ While emplementing this Covid 19 project, I got to learn many hands-on common bu
 I made use of the **COVID-19 data** from the [GitHub data repository](https://github.com/CSSEGISandData/COVID-19) for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). 
 Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL). 
 
-***Note: The attached screenshot are taken on 08/19/2020, therefore below must not be the updated data when you are viewing this.***
+***Note: The attached screen captures are taken on 08/19/2020, therefore below must not be the updated data when you are viewing this.***
 
 - Worlwide confirmed cases overtime :
  
