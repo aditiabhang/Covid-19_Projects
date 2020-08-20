@@ -1,1 +1,3 @@
 *.py
+*.ipynb
+*.ipynb_checkpoints/
