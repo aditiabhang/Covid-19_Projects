@@ -7,8 +7,17 @@ While emplementing this Covid 19 project, I got to learn many hands-on common bu
 I made use of the **COVID-19 data** from the [GitHub data repository](https://github.com/CSSEGISandData/COVID-19) for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). 
 Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL). 
 
-I was able to analyze the following questions with the help of bar graphs.
+***Note: The attached screenshot are taken on 08/19/2020, therefore below must not be the updated data when you are viewing this.***
 
+- Worlwide confirmed cases overtime :
+ 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/51350594/90802839-7104a100-e2dd-11ea-84d9-dfbc679ee607.gif)
+ 
+- Worldwide cases status:
+
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/51350594/90803166-f9834180-e2dd-11ea-893e-6758dae7022d.gif)
+ 
+I was able to analyze the following questions with the help of bar graphs.
 1. Which are the top-10 countries with more `confirmed` cases?
 
 <img width="1295" alt="Screen Shot 2020-08-20 at 11 53 32 AM" src="https://user-images.githubusercontent.com/51350594/90801911-220a3c00-e2dc-11ea-9d3a-2ac6172a009b.png">
@@ -29,6 +38,8 @@ I was able to analyze the following questions with the help of bar graphs.
 5. What is the total `confirmed cases in the US`?
 
 <img width="1294" alt="Screen Shot 2020-08-20 at 11 55 26 AM" src="https://user-images.githubusercontent.com/51350594/90802115-609ff680-e2dc-11ea-8335-1c024487064d.png">
+
+
 
 
 ***Want the entire code? Feel free to contact me on aditiaabhang@gmail.com for the code.*** :)
