@@ -1,3 +1,5 @@
 *.ipynb_checkpoints/
 *.idea/
 covid19_env/
+*.py
+Data_Science_Notes/*.ipynb
